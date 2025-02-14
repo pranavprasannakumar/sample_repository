@@ -1,1 +1,41 @@
-hiii......hello/..............
+Local Working Directory -> Staging Area -> Local repository -> github
+
+command to change name
+>git config --global user.name "enter username"
+
+command to change email
+>git config --global.email "enter email"
+
+command to check email & user name
+>git config --list
+
+command to initialize git
+>git init
+
+command to add to Staging area
+>git add -A
+
+command to commit or transfer to local repository
+>git commit -m "pass a message"
+
+command to check status of files
+>git status
+
+command to trasfer file from local repository to git hub
+>git push origin master
+
+command to trasfer file from git hub to local repository 
+>git clone    #for exact copy
+>git pull     #for changes
+
+command for adding remote
+>git remote add remotename web_address
+
+command for checking remote status
+>git remote -v
+
+command for push
+>git push remotename branch(main/master)
+
+command for listing branch
+>git branch
