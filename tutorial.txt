@@ -39,3 +39,6 @@ command for push
 
 command for listing branch
 >git branch
+
+pull
+>to get changes data from remote repository to local
