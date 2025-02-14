@@ -1,3 +1,3 @@
 print("palindrome series")
-print("This is for pull")
+print("This is  pull")
 print("example for pull")
